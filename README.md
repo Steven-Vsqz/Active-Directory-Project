@@ -23,8 +23,6 @@ In this lab, I created a network environment using VirtualBox, featuring multipl
 - <strong>Windows 10 Server & Host Computer:</strong> Both machines have Sysmon configured to collect detailed system telemetry, which is then forwarded to the Splunk server for analysis.
 - <strong>Active Directory Domain Controller:</strong> The backbone of the network, this server manages the domain, users, and security policies, allowing for the exploration and learning of Active Directory fundamentals.
 - <strong>Kali Linux Attacker:</strong> A virtual machine configured to simulate attacks on the host computer, generating detectable events that can be analyzed using Splunk.
-<h1 align="center">
-Chat log: <br/></h1>
  
 </details>
 
@@ -40,6 +38,12 @@ From completing this project, I have gained:
 - <strong>Experience in building a secure virtual network:</strong> Setting up a secure and functional network environment using VirtualBox, enhancing my overall understanding of network security principles.
 
 </details>
+
+![createUnit](https://github.com/user-attachments/assets/1943a6ea-abd8-4f85-8225-09c093b94706)
+![addUser](https://github.com/user-attachments/assets/40c9a545-7089-4a22-a92c-b80e500f6ac5)
+![verifyingLogin](https://github.com/user-attachments/assets/a74cea02-0db7-4983-8f7e-77dbff610cb0)
+
+
 <!--
  ```diff
 - text in red
