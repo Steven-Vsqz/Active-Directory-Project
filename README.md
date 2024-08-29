@@ -2,9 +2,6 @@
 
 This project showcases a hands-on Active Directory lab environment designed to simulate real-world scenarios involving network security, attack detection, and incident response.
 <br />
-<p align="center">
-<img src="https://i.imgur.com/ABECAaP.png" height="80%" width="80%" alt="Failed RDP Steps"/>
-</p>
 
 <h2>🛠️Utilities & Tools Used</h2>
 
@@ -39,17 +36,11 @@ From completing this project, I have gained:
 
 </details>
 
-![createUnit](https://github.com/user-attachments/assets/1943a6ea-abd8-4f85-8225-09c093b94706)
-![addUser](https://github.com/user-attachments/assets/40c9a545-7089-4a22-a92c-b80e500f6ac5)
-![verifyingLogin](https://github.com/user-attachments/assets/a74cea02-0db7-4983-8f7e-77dbff610cb0)
+# Creating an Organizational unit
+<img src="https://github.com/user-attachments/assets/1943a6ea-abd8-4f85-8225-09c093b94706" style="height: 85%; width: 85%;">
 
+# Adding user to unit
+<img src="https://github.com/user-attachments/assets/40c9a545-7089-4a22-a92c-b80e500f6ac5" style="height: 85%; width: 85%;">
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+# Verify user join domain server
+<img src="https://github.com/user-attachments/assets/a74cea02-0db7-4983-8f7e-77dbff610cb0" style="height: 85%; width: 85%;">
