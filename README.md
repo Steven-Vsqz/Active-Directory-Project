@@ -2,7 +2,7 @@
 
 This project showcases a hands-on Active Directory lab environment designed to simulate real-world scenarios involving network security, attack detection, and incident response.
 <br />
-
+<div align="center">
 <h2>🛠️Utilities & Tools Used</h2>
 
 ![image](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white)
@@ -10,6 +10,7 @@ This project showcases a hands-on Active Directory lab environment designed to s
 ![image](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 
+</div>
 <details open>
 <summary><h2>👨‍💻Project Overview</h2></summary>
 
