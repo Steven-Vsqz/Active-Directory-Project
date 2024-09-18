@@ -24,7 +24,12 @@ In this lab, I created a network environment using VirtualBox, featuring multipl
 </details>
 
 <details close>
-<summary><h2>Active Directory Setup</h2></summary>
+<summary><h2>🔍Network Diagram</h2></summary>
+<img src="https://github.com/user-attachments/assets/5a407125-727f-47e2-adb1-75c066bba94d" style="height: 55%; width: 55%;">
+</details>
+
+<details close>
+<summary><h2>💻Active Directory Setup</h2></summary>
 
 This guide covers the steps to configure an Active Directory (AD) environment, including domain controller setup, Group Policy administration, user/group management, and DNS configuration.
 
